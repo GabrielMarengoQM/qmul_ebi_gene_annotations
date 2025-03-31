@@ -1,5 +1,7 @@
 # Example of raw web data to processed JSON
 
+0/ Install & load libraries (install_libraries.R)
+
 1/ Pull raw data (pull_data.R)
 
 2/ Process data (process_impc_data.R)
