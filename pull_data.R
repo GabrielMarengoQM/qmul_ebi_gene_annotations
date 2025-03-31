@@ -1,8 +1,5 @@
-# Libraries ----
-library(data.table)
-library(utils)
-
 ## Data retrieval ----
+
 # 1 - Human protein coding genes (EBI) ----
 protein.coding.genes <- utils::read.delim('https://storage.googleapis.com/public-download-files/hgnc/tsv/tsv/locus_types/gene_with_protein_product.txt')
 

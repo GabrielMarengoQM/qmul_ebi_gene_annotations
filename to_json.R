@@ -1,8 +1,4 @@
-# Libraries ----
-library(dplyr)
-library(tidyr)
-library(jsonlite)
-library(jqr)
+## Process DFs to JSON ----
 
 # IMPC phenotypes ----
 impc_phenotypes_nested <- impc_phenotypes %>%

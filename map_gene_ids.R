@@ -1,6 +1,4 @@
-# Libraries ----
-library(dplyr)
-library(arrow)
+## Map GeneIDs to symbols ----
 
 # GENES ----
 genes <- protein.coding.genes %>%
